@@ -22,6 +22,7 @@
 		77C73DAA25A94A5900E991BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		77C73DB225A94B1500E991BC /* Launch Screen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Launch Screen.swift"; sourceTree = "<group>"; };
 		77C73DB925A9572000E991BC /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		77C73DBD25A959A600E991BC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,7 @@
 		77C73D9525A94A5600E991BC = {
 			isa = PBXGroup;
 			children = (
+				77C73DBD25A959A600E991BC /* README.md */,
 				77C73DA025A94A5600E991BC /* Aim To */,
 				77C73D9F25A94A5600E991BC /* Products */,
 			);
